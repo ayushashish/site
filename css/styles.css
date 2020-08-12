@@ -1,0 +1,93 @@
+#title {
+    background-color: #159ff0;
+    color: #fff;
+}
+
+#title-header {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+    font-weight: 800;
+    line-height: 1.5;
+}
+
+.container-fluid {
+    padding: 3% 10%;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar {
+    padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 2rem;
+    color: teal;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.titles {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    font-weight: 500;
+    line-height: 1.5;
+}
+
+#about {
+    padding: 1% 10%;
+    background-color: #159ff0;
+    color: white;
+}
+
+#projects {
+    padding: 3% 10%;
+    background-color: #159ff0;
+    color: white;
+}
+
+#contact {
+    padding: 3% 10%;
+    background-color: #159ff0;
+    color: white;
+}
+
+#footer {
+    padding-top: 2%;
+    text-align: center;
+    background-color: #159ff0;
+    color: white;
+}
+
+.text {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2rem;
+    line-height: 1.5;
+}
+
+.contact-link {
+    color: white;
+}
+
+#icon-image {
+    width: 20%;
+}
+
+.download-button {
+    margin: 5% 3% 5% 0;
+}
+
+.icon-button {
+    color: #159ff0;
+}
