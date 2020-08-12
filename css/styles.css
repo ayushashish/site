@@ -1,13 +1,6 @@
 #title {
-    background-color: #159ff0;
+    background-color: black;
     color: #fff;
-}
-
-#title-header {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 3.5rem;
-    font-weight: 800;
-    line-height: 1.5;
 }
 
 .container-fluid {
@@ -19,7 +12,7 @@ body {
 }
 
 .navbar {
-    padding: 0 0 3rem;
+    padding: 0 0 2.5rem;
 }
 
 .navbar-brand {
@@ -43,31 +36,31 @@ body {
     font-size: 3rem;
     font-weight: 500;
     line-height: 1.5;
-    padding-top: 1.75rem;
+    padding-top: 1.5rem;
 }
 
 #about {
     padding: 1% 10%;
-    background-color: #159ff0;
+    background-color: black;
     color: white;
 }
 
 #projects {
     padding: 3% 10%;
-    background-color: #159ff0;
+    background-color: black;
     color: white;
 }
 
 #contact {
     padding: 3% 10%;
-    background-color: #159ff0;
+    background-color: black;
     color: white;
 }
 
 #footer {
     padding-top: 2%;
     text-align: center;
-    background-color: #159ff0;
+    background-color: black;
     color: white;
 }
 
@@ -87,8 +80,4 @@ body {
 
 .download-button {
     margin: 5% 3% 5% 0;
-}
-
-.icon-button {
-    color: #159ff0;
 }
